@@ -1,12 +1,12 @@
 # omnet
 
-+lab3a
++ lab3a:
 Hãy dùng NED để tạo ra một mạng có các nút có tạo hình thành tên không dấu của các bạn. 
 a) Hiển thị được network đó trên màn hình đồ họa NED của Omnet++. 
 b) Sửa mã nguồn sao cho mỗi gói tin (message) sẽ đi qua tất cả các hop (nút) và in ra giá trị hop count khi gói tin đến được nút cuối cùng. 
 Chú ý rằng người lập trình cố gắng chọn nút nguồn và nút đích sao cho nó đi qua lần lượt từng chữ cái của tên các bạn. (Chấp nhận cho việc một nút được đi lại hai lần)
 
-+Wsn:
++ Wsn:
 Wireless Sensor Networks: 
 Tạo ra 100 nút sensor trong không gian có kích thước 8*8, các nút mạng nằm ngẫu nhiên và trong mỗi nút ta tính toán được có khoảng cách giữa nó với một nút bất kỳ. 
 Chú ý rằng chúng ta chuẩn hóa giá trị khoảng cách đó.
